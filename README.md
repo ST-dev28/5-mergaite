@@ -8,9 +8,9 @@
 
 _28 group website project_
 
-This project is for educational porpuses only. 
+This project is for educational porpuses only. First stepts into programming world :)
 
-Site published at https://st-dev28.github.io/5-mergaite/ 
+Site published at https://github.com/ST-dev28/5-mergaite 
 
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
