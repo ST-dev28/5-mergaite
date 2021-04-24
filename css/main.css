@@ -1,0 +1,17 @@
+body {
+    background-color: #F8F8F8;
+}
+
+header {
+    display: inline-block;
+    width: 800px;
+    background-color: turquoise;
+    margin-left: calc(50% - 400px);
+}
+
+main {
+    display: inline-block;
+    width: 800px;
+    background-color: pink;
+    margin-left: calc(50% - 400px);
+}

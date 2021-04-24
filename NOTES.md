@@ -4,7 +4,7 @@
    - index.html
    - .gitignore
 - [x] paviesinti projekta per Github Pages (gausim URL)
-- [ ] README.md
+- [x] README.md
    - skirta aprasyti, kas, ka ir kodel daro
    - iterpti nuoroda i daroma dizaina
    - iterpti nuoroda, kur tas musu kodas g.b. pamatytas
@@ -22,7 +22,7 @@
 
 # Pasiskaitymui
 
-apie cia naudojama sarymo sintakse (md = marked down) 
+apie cia naudojama rarymo sintakse (md = marked down) 
 https://guides.github.com/features/mastering-markdown/
 
 # Paint.net naudojimas
@@ -34,4 +34,4 @@ Norint iskirpti fona:
 4. ctrl + s
 
 pajeiksliukas 
-./ (pvz ./logo.png)
+./    (pvz ./logo.png)
