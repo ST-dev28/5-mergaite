@@ -10,19 +10,16 @@ header {
 }
 
 header > img {
-  display: inline-block;
   height: 50px;
   float: left;
 }
 
 header > nav {
-  display: inline-block;
   float: right;
   margin-top: 6px;
 }
 
 nav > a {
-  display: inline-block;
   float: left;
   line-height: 20px;
   font-size: 18px;
@@ -48,7 +45,6 @@ body > main {
 }
 
 main > div {
-  display: inline-block;
   width: 30%;
   float: left;
   margin-top: 60px;
@@ -73,7 +69,6 @@ div > p {
 }
 
 main > img {
-  display: inline-block;
   width: 46%;
   float: right;
   margin-right: 2%;
