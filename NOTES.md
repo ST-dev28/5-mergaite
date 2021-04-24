@@ -1,4 +1,4 @@
-#Procesas
+# Procesas
 
 - [x] pradine failu struktura
    - index.html
@@ -13,12 +13,19 @@
 - [ ] isikirpti nuotaukas ir jas panaudoti (istatyti tinkamas reiksmes i HTML)
    - panaudoti reliatyvu kelia
    - PNG formatas (del permatomumo savybes)
-- [ ] aprasome stiliu: 
+- [x] aprasome stiliu: 
    - turinys turi buti centre
    - pagrindinis plotis t.b. fiksuotas (pikseliais, ne procentais)
    - stiliu (CSS) atskirti nuo HTML
 - [ ] README.md
 - [ ] paviesinti projekta per Github Pages (gausim URL)
+
+# HTML/CSS rasymo strategija
+
+- israsyti kiek imonoma isivaizduojama HTML
+- issirasyti CSS selektosiu (selector : div, h1, p...)
+-  pradedant nuo labiausiai tevinio selektoriaus (is virsaus i apacia) selekroriaus, surasome reikiamus stilius
+- REPEAT - go to step 1
 
 # Pasiskaitymui
 
