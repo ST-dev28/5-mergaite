@@ -6,7 +6,7 @@
 
 # Mergaite
 
-_28 group website project_
+_28 group website project_Mergaite
 
 This project is for educational porpuses only. First stepts into programming world :)
 
