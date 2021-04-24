@@ -40,5 +40,5 @@ Norint iskirpti fona:
 3. ctrl + shift + x
 4. ctrl + s
 
-pajeiksliukas 
+paveiksliukas 
 ./    (pvz ./logo.png)
